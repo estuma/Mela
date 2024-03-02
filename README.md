@@ -1,5 +1,5 @@
 # :notes: Mela! - 음악 작업을 위한 구인, 공동 작업 플랫폼
-![로고](./frontend/src/assets/images/logo.png)
+![로고](./Docs/logo.png)
 
 ## Mela! 링크 : https://i10c201.p.ssafy.io/
 - 테스트 ID : mela@ssafy.com <br>
